@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
+## Matrix
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
