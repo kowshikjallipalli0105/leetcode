@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
