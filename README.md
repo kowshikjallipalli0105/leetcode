@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Enumeration
 |  |
 | ------- |
