@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1970-sorting-the-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
