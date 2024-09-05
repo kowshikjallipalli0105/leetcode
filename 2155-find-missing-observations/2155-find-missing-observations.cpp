@@ -25,3 +25,9 @@ public:
         return miss;
     }
 };
+static const int ktkdvshrm = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 0;
+}();
