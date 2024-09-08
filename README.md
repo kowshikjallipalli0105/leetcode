@@ -190,5 +190,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
