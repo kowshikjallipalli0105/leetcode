@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0561-array-partition) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0906-walking-robot-simulation](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
