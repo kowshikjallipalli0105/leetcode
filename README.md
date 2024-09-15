@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1970-sorting-the-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
