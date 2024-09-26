@@ -3,8 +3,9 @@ public:
     bool isPalindrome(string s) {
         string lower;
         for(auto i:s){
-            if(isalnum(i)){
-                lower+=tolower(i);
+            i=tolower(i);
+            if(i>='a'&& i<='z' ||i>=0&&i<=9){
+                lower+=i;
             }
         }
         int start=0;
