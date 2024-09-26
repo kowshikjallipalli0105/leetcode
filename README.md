@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0561-array-partition) |
+| [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0035-search-insert-position) |
+| [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
 | [2447-merge-similar-items](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2447-merge-similar-items) |
 ## Prefix Sum
 |  |
@@ -261,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1013-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
