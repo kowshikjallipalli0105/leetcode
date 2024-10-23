@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1677-matrix-diagonal-sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1677-matrix-diagonal-sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
