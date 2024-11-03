@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0125-valid-palindrome) |
 | [0539-minimum-time-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -395,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
