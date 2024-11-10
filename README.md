@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3394-minimum-array-end](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3394-minimum-array-end) |
 ## Brainteaser
 |  |
 | ------- |
