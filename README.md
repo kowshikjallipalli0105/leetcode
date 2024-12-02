@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2561-number-of-distinct-averages](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -401,4 +403,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
