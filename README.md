@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2155-find-missing-observations) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Matrix
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2411-spiral-matrix-iv](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Database
