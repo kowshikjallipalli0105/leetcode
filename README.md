@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0584-find-customer-referee) |
+| [1179-game-play-analysis-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1179-game-play-analysis-i) |
 | [2024-calculate-special-bonus](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2024-calculate-special-bonus) |
 ## Stack
 |  |
