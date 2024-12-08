@@ -7,16 +7,15 @@ public:
         for(int i=0;i<n;i++){
             int count=people[i][1];
             for(int j=0;j<n;j++){
-                if(ans[j][0]== -1 && count==0){
+                if(ans[j][0]==-1 && count==0){
                     ans[j][0]=people[i][0];
                     ans[j][1]=people[i][1];
                     break;
                 }
-                else if (ans[j][0]==-1 ||ans[j][0]>=people[i][0]){
+                else if(ans[j][0]==-1 || ans[j][0]>=people[i][0]){
                     count--;
                 }
             }
-
         }
         return ans;
     }
