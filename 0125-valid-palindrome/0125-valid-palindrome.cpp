@@ -1,21 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string lower;
-        for(auto i:s){
-            i=tolower(i);
-            if(i>='a'&& i<='z' ||i>=0&&i<=9){
-                lower+=i;
+        transform(s.begin(),s.end(),s.begin(),::tolower);
+        int len=s.length();
+        string str;
+        for(auto& i:s){
+            if((i<=122&&i>=97) ||(i<=57 &&i>=48)){
+                str+=i;
             }
         }
-        int start=0;
-        int end=lower.length()-1;
-        while(start<=end){
-            if(lower[start]!=lower[end]){
-                return false;
+        int low=0,high=str.length()-1;
+        while(low<=high){
+            if(str[low]!=str[high]) return false;
+            else{
+                low++;
+                high--;
             }
-            start++;
-            end--;
+            
         }
         return true;
     }
