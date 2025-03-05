@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2155-find-missing-observations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2649-count-total-number-of-colored-cells](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Matrix
 |  |
