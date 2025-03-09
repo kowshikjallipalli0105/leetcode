@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3483-alternating-groups-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3483-alternating-groups-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Union Find
 |  |
 | ------- |
