@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3483-alternating-groups-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Union Find
 |  |
 | ------- |
