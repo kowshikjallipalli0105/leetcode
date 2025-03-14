@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2447-merge-similar-items](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2447-merge-similar-items) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
