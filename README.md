@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
