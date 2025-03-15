@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2447-merge-similar-items](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2447-merge-similar-items) |
 | [2561-number-of-distinct-averages](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3483-alternating-groups-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Union Find
