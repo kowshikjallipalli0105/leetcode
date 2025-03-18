@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2447-merge-similar-items](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2447-merge-similar-items) |
 | [2561-number-of-distinct-averages](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2690-house-robber-iv) |
