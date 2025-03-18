@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3643-zero-array-transformation-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3778-transform-array-by-parity](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3778-transform-array-by-parity](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3778-transform-array-by-parity](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
