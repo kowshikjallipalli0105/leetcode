@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2447-merge-similar-items](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2447-merge-similar-items) |
+| [2478-longest-nice-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2561-number-of-distinct-averages](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2478-longest-nice-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3394-minimum-array-end](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3394-minimum-array-end) |
 ## Brainteaser
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2478-longest-nice-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Union Find
