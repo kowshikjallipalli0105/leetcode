@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1306-minimum-absolute-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1306-minimum-absolute-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
