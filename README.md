@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
 | [0406-queue-reconstruction-by-height](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0539-minimum-time-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0561-array-partition) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
