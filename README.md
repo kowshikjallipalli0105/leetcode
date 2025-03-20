@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1694-make-sum-divisible-by-p](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1752-arithmetic-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1752-arithmetic-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1752-arithmetic-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1970-sorting-the-sentence) |
