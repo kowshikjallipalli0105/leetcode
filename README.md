@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3164-last-visited-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3164-last-visited-integers) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3164-last-visited-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3164-last-visited-integers) |
 ## Database
 |  |
 | ------- |
