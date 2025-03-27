@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0075-sort-colors) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0504-base-7) |
