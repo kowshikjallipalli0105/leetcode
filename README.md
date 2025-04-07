@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
