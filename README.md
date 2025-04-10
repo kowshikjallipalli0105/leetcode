@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2195-time-needed-to-buy-tickets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2155-find-missing-observations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
 |  |
