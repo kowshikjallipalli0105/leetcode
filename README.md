@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-convert-date-to-binary](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Matrix
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2998-count-symmetric-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Simulation
 |  |
 | ------- |
