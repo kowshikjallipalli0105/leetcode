@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2024-calculate-special-bonus) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
 |  |
 | ------- |
