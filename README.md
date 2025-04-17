@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2411-spiral-matrix-iv](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2411-spiral-matrix-iv) |
