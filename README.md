@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1153-product-sales-analysis-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1179-game-play-analysis-i) |
+| [1837-daily-leads-and-partners](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2024-calculate-special-bonus) |
