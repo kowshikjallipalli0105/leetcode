@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
+| [0817-design-hashmap](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-design-hashmap](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0817-design-hashmap) |
 | [2411-spiral-matrix-iv](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0731-my-calendar-ii) |
+| [0817-design-hashmap](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0817-design-hashmap) |
 ## Segment Tree
 |  |
 | ------- |
@@ -631,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
