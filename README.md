@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1293-three-consecutive-odds](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
