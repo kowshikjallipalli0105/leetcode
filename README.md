@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0650-2-keys-keyboard](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0909-stone-game) |
