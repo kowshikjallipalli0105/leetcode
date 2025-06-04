@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0283-move-zeroes) |
 | [0406-queue-reconstruction-by-height](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
 | [0817-design-hashmap](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0817-design-hashmap) |
