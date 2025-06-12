@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
