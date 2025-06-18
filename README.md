@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2756-buy-two-chocolates](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2756-buy-two-chocolates) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
