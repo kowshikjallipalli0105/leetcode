@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2411-spiral-matrix-iv](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2433-best-poker-hand](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2447-merge-similar-items) |
 | [2478-longest-nice-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2433-best-poker-hand](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2447-merge-similar-items) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2433-best-poker-hand](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2433-best-poker-hand) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
