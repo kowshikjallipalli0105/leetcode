@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0838-design-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0731-my-calendar-ii) |
 | [0817-design-hashmap](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0838-design-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
