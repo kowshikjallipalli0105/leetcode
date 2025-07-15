@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3396-valid-word](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
