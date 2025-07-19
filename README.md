@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-more-than-5-students](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1153-product-sales-analysis-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1153-product-sales-analysis-i) |
