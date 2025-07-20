@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0539-minimum-time-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0561-array-partition) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0567-permutation-in-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1019-squares-of-a-sorted-array) |
