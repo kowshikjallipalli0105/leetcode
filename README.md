@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0539-minimum-time-difference) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0561-array-partition) |
 | [0958-sort-array-by-parity-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0958-sort-array-by-parity-ii) |
