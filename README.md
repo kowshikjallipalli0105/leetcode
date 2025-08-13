@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0507-perfect-number) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Memoization
