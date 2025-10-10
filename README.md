@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0415-add-strings) |
 | [0906-walking-robot-simulation](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
