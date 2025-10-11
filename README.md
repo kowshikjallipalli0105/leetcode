@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0441-arranging-coins) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0729-my-calendar-i) |
