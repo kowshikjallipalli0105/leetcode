@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3567-convert-date-to-binary](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
 | ------- |
