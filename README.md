@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2411-spiral-matrix-iv](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2433-best-poker-hand](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2447-merge-similar-items) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2447-merge-similar-items) |
 | [2561-number-of-distinct-averages](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Quickselect
