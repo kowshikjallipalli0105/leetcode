@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3567-convert-date-to-binary](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3164-last-visited-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3164-last-visited-integers) |
 | [3336-water-bottles-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2083-three-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -815,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Function
 |  |
 | ------- |
