@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0018-4sum) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0058-length-of-last-word) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0014-longest-common-prefix) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Recursion
 |  |
