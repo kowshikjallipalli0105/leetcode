@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2083-three-divisors) |
