@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1764-maximum-repeating-substring](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1013-fibonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Counting Sort
 |  |
 | ------- |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Binary Indexed Tree
 |  |
 | ------- |
