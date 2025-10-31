@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3567-convert-date-to-binary](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
