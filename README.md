@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2083-three-divisors) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1925-count-square-sum-triples](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
