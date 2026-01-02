@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0909-stone-game) |
 | [0941-sort-array-by-parity](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
