@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3582-generate-tag-for-video-caption](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3164-last-visited-integers](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3164-last-visited-integers) |
 | [3336-water-bottles-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3336-water-bottles-ii) |
+| [3582-generate-tag-for-video-caption](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3790-fruits-into-baskets-ii) |
