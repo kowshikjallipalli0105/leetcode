@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0406-queue-reconstruction-by-height) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0414-third-maximum-number) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0367-valid-perfect-square) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0441-arranging-coins) |
@@ -774,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kowshikjallipalli0105/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kowshikjallipalli0105/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
