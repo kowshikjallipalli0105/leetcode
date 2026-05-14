@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2756-buy-two-chocolates](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2756-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2836-neither-minimum-nor-maximum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2784-check-if-array-is-good](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2756-buy-two-chocolates](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2756-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2836-neither-minimum-nor-maximum](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshikjallipalli0105/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kowshikjallipalli0105/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
